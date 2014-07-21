@@ -1,0 +1,22 @@
+{
+  "name": "echoes comp",
+  "version": "0.0.1",
+  "homepage": "https://github.com/orizens/echoes-comp",
+  "authors": [
+    "Oren Farhi <farhioren@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.11.0",
+    "react-bootstrap": "react-bootstrap/react-bootstrap-npm#~0.11",
+    "font-awesome": "~4.1.0"
+  }
+}
