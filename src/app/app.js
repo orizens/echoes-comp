@@ -1,6 +1,6 @@
 /** @jsx React.DOM */
 var React = require('react');
-var YoutubePlayer = require('./player/YoutubePlayer.js');
+var YoutubePlayer = require('./player');
 
 React.renderComponent(
    	<YoutubePlayer title="cool!"></YoutubePlayer>,
