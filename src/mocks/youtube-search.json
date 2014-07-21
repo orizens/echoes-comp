@@ -1,0 +1,1310 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/6RnuB8QMyqCncXXp3sH-dRHdOZg\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 215406,
+    "resultsPerPage": 50
+  },
+  "items": [{
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/1iPZ8X9S_OBJQob6VcimhxxRTCw\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "7YDPNl7PeUU"
+    },
+    "snippet": {
+      "publishedAt": "2013-09-05T13:00:35.000Z",
+      "channelId": "UChf0Knt-e9Pw8VywfuTZCjA",
+      "title": "Alice In Chains - Voices",
+      "description": "\"Voices\" available now on Alice in Chains' album 'The Devil Put Dinosaurs Here,' download on iTunes: http://smarturl.it/BuyAIC Official music video for Alice...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7YDPNl7PeUU/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7YDPNl7PeUU/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7YDPNl7PeUU/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "AliceInChainsVEVO",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/GEvrveH8eBALzmvzIUU-hQsrH0A\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "uAE6Il6OTcs"
+    },
+    "snippet": {
+      "publishedAt": "2009-10-25T08:46:07.000Z",
+      "channelId": "UChf0Knt-e9Pw8VywfuTZCjA",
+      "title": "Alice In Chains - Rooster",
+      "description": "Music video by Alice In Chains performing Rooster. (C) 1993 SONY BMG MUSIC ENTERTAINMENT.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uAE6Il6OTcs/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uAE6Il6OTcs/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uAE6Il6OTcs/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "AliceInChainsVEVO",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/94l9XzOjzjfeA6xIfgfl4RON9HA\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Nco_kh8xJDs"
+    },
+    "snippet": {
+      "publishedAt": "2010-03-01T23:22:36.000Z",
+      "channelId": "UChf0Knt-e9Pw8VywfuTZCjA",
+      "title": "Alice In Chains - Would?",
+      "description": "Music video by Alice In Chains performing Would?. (C) 1992 SONY BMG MUSIC ENTERTAINMENT.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Nco_kh8xJDs/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Nco_kh8xJDs/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Nco_kh8xJDs/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "AliceInChainsVEVO",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/GIV6V7lGxpeSJ4wGBosTSYGXH7o\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "9KmYFY5oOvM"
+    },
+    "snippet": {
+      "publishedAt": "2013-04-18T07:00:14.000Z",
+      "channelId": "UChf0Knt-e9Pw8VywfuTZCjA",
+      "title": "Alice In Chains - Stone",
+      "description": "Order 'The Devil Put Dinosaurs Here' available May 28, 2013: http://smarturl.it/BuyAIC Official video for Alice in Chains' \"Stone\" from their album 'The Devi...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9KmYFY5oOvM/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9KmYFY5oOvM/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9KmYFY5oOvM/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "AliceInChainsVEVO",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/8YjE3Ny-qihRw94ysATiI7WfU3k\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "jQ9fI1Rj-Cs"
+    },
+    "snippet": {
+      "publishedAt": "2014-04-13T19:38:45.000Z",
+      "channelId": "UCSSyZ2foDCsg4fR8vPhtIsw",
+      "title": "Alice In Chains Dirt Full Album (1992)",
+      "description": "Alice In Chains Dirt Full Album (1992) 1. Them Bones 00:00 2. Dam That River 2:30 3. Rain When I Die 5:39 4. Sickman 11:41 5. Rooster 17:10 6. Junkhead ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jQ9fI1Rj-Cs/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jQ9fI1Rj-Cs/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jQ9fI1Rj-Cs/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "94SHK",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/styKYfeTPquoes7i-TOql_fniB0\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "sx_eN_DJ0x4"
+    },
+    "snippet": {
+      "publishedAt": "2013-11-18T14:49:20.000Z",
+      "channelId": "UCSAXw5s7A2j9Vu-c56WUchw",
+      "title": "Alice in Chains - \"The Devil Put Dinosaurs Here\" (Full Album)",
+      "description": "\"The Devil Put Dinosaurs Here\" is the fifth studio album by the American rock band Alice in Chains, released on May 28, 2013. It is the band's second reunion...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sx_eN_DJ0x4/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sx_eN_DJ0x4/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sx_eN_DJ0x4/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "MyCrookedSteps",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/_zlrAl6ZiUs-m97e7SQHFlsk6eQ\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "JMbSq5dDBo8"
+    },
+    "snippet": {
+      "publishedAt": "2013-07-23T19:48:45.000Z",
+      "channelId": "UCTtH0MJqcOVLaa32kHvBu1w",
+      "title": "Alice In Chains - Live at the Moore, Seattle -1991 (Subtitled)",
+      "description": "Alice In Chains - Live at the Moore, Seattle -1990 (Subtitled) Memorable Presentation.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JMbSq5dDBo8/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JMbSq5dDBo8/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JMbSq5dDBo8/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "Manguebaby",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/Y7rMXWTh3YxVXorK9OP6qCmffb0\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "f8hT3oDDf6c"
+    },
+    "snippet": {
+      "publishedAt": "2009-10-25T08:47:27.000Z",
+      "channelId": "UChf0Knt-e9Pw8VywfuTZCjA",
+      "title": "Alice In Chains - Down In A Hole",
+      "description": "Music video by Alice In Chains performing Down In A Hole. (C) 1992 SONY BMG MUSIC ENTERTAINMENT.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f8hT3oDDf6c/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f8hT3oDDf6c/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f8hT3oDDf6c/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "AliceInChainsVEVO",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/F7FtMahzdeauZ4e0osWshUmI7Gc\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "vG-u2mAn8v8"
+    },
+    "snippet": {
+      "publishedAt": "2014-06-02T23:36:38.000Z",
+      "channelId": "UCczxC5Mrq8I7io2NCtGVg-Q",
+      "title": "Alice In Chains - Facelift (Full Album)",
+      "description": "1.«We Die Young» (00:00 - 02:31) 2.«Man in the Box» (02:32 - 07:17) 3.«Sea of Sorrow» (07:18 - 13:01 ) 4.«Bleed the Freak» (13:09 - 17:10) 5.«I Can't ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vG-u2mAn8v8/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vG-u2mAn8v8/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vG-u2mAn8v8/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/ohIjMsYJz4tGz7sYfqvRaCigWsQ\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "r80HF68KM8g"
+    },
+    "snippet": {
+      "publishedAt": "2009-10-25T08:40:19.000Z",
+      "channelId": "UChf0Knt-e9Pw8VywfuTZCjA",
+      "title": "Alice In Chains - No Excuses",
+      "description": "Music video by Alice In Chains performing No Excuses. (C) 1996 SONY BMG MUSIC ENTERTAINMENT.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/r80HF68KM8g/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/r80HF68KM8g/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/r80HF68KM8g/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "AliceInChainsVEVO",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/OpoEM6hPT5lqXnci0zSX1pINxRI\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "kgL3OogsvUw"
+    },
+    "snippet": {
+      "publishedAt": "2012-07-18T23:10:10.000Z",
+      "channelId": "UCPrkwatPHtkA7LvqZ6l4bdw",
+      "title": "Alice in chains - Would? Unplugged [HD]",
+      "description": "Know Me, Broken, By My Master Teach Thee On, Child, Love Hereafter Into The Flood Again Same Old Trip It Was Back Then So I Made A Big Mistake Try To ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kgL3OogsvUw/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kgL3OogsvUw/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kgL3OogsvUw/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "rodrigosu64",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/6pcxEgfbqSkkWUvG5hsZiymSTRE\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "TAqZb52sgpU"
+    },
+    "snippet": {
+      "publishedAt": "2009-10-25T08:39:11.000Z",
+      "channelId": "UChf0Knt-e9Pw8VywfuTZCjA",
+      "title": "Alice In Chains - Man In The Box",
+      "description": "Music video by Alice In Chains performing Man In The Box. (C) 1990 SONY BMG MUSIC ENTERTAINMENT.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TAqZb52sgpU/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TAqZb52sgpU/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TAqZb52sgpU/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "AliceInChainsVEVO",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/j_pBrOKvyBon7AM7cF-vfzB5ujI\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "mI10nYuqcJ4"
+    },
+    "snippet": {
+      "publishedAt": "2013-05-26T16:07:30.000Z",
+      "channelId": "UCXYvmcV9JC-VOcjLC79jwJQ",
+      "title": "Alice in Chains - The Devil Put Dinosaurs Here [Full Album]",
+      "description": "[WARNING] I do not own this album or any song on it. The above is property of producer Nick Raskulinecz & Alice in Chains. - UPLOADED BY: Kuraca Figueroa ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mI10nYuqcJ4/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mI10nYuqcJ4/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mI10nYuqcJ4/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/3b78wYKGGgMsxX3PHXvPF6Sff5s\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zKgVVXEcElk"
+    },
+    "snippet": {
+      "publishedAt": "2014-06-04T02:44:49.000Z",
+      "channelId": "UCMjNiNWQzc9kMD3B9m8VkkA",
+      "title": "Alice in Chains - DIRT Album Review",
+      "description": "CKN on Facebook! - http://www.facebook.com/pages/Coverkiller-Nation/102313519812201 Twitter: @thecoverkiller Dirt is easily one of my favorite albums of all ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zKgVVXEcElk/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zKgVVXEcElk/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zKgVVXEcElk/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "coverkillernation",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/dM83OgsMVEZU9ndxJ-QbzI5FLdU\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "hmSeWqmlqYs"
+    },
+    "snippet": {
+      "publishedAt": "2013-01-10T17:00:55.000Z",
+      "channelId": "UChf0Knt-e9Pw8VywfuTZCjA",
+      "title": "Alice In Chains - Hollow",
+      "description": "Alice in Chains \"Hollow\" is now available on iTunes: http://smarturl.it/AICHollow Brand new album, Spring 2013. Facebook: http://www.facebook.com/aliceinchai.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hmSeWqmlqYs/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hmSeWqmlqYs/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hmSeWqmlqYs/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "AliceInChainsVEVO",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/3Hw5GZIQwvifzEMACJRuFvQ4ru8\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "zTuD8k3JvxQ"
+    },
+    "snippet": {
+      "publishedAt": "2009-10-25T08:34:19.000Z",
+      "channelId": "UChf0Knt-e9Pw8VywfuTZCjA",
+      "title": "Alice In Chains - Them Bones",
+      "description": "Music video by Alice In Chains performing Them Bones. (C) 1992 SONY BMG MUSIC ENTERTAINMENT.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zTuD8k3JvxQ/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zTuD8k3JvxQ/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zTuD8k3JvxQ/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "AliceInChainsVEVO",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/0uthEoolfDUYPRj3Twnnh5iTstU\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "4z1szCOG7VA"
+    },
+    "snippet": {
+      "publishedAt": "2012-10-18T02:45:13.000Z",
+      "channelId": "UCiszjSlVr9iHp0rBHv2IngA",
+      "title": "Alice in chains unplugged part 1",
+      "description": "Alice in chains unplugged part 1.wmv.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4z1szCOG7VA/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4z1szCOG7VA/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4z1szCOG7VA/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/yxiTG8qtC_XbncYrGctWsnLX-j0\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "woK6p_fD7Sk"
+    },
+    "snippet": {
+      "publishedAt": "2011-11-15T23:55:55.000Z",
+      "channelId": "UC7adc8aDeEx8vgN7iHhPqgA",
+      "title": "ALICE IN CHAINS live SWU 2011 - 14-nov - Full Concert - completo",
+      "description": "ALICE IN CHAINS live SWU 2011 - 14-nov - Full Concert - completo Them Bones Dam That River Rain When I Die Again Check My Brain It Ain't Like That Your ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/woK6p_fD7Sk/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/woK6p_fD7Sk/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/woK6p_fD7Sk/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "dfrekovic",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/1CLv5UKC2rqqFVr1qC18G-sWcPc\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "K4JecMnBoYI"
+    },
+    "snippet": {
+      "publishedAt": "2014-05-02T00:25:30.000Z",
+      "channelId": "UCOxrMkm8fDokyD1H-n_cwAQ",
+      "title": "Alice in Chains   Dirt 1992 Full",
+      "description": "00:00 Them Bones 02:30 Dam That River 05:39 Rain When I Die 11:42 Down in a Hole 17:19 Sickman 22:49 Rooster 29:06 Junkhead 34:14 Dirt 39:30 God ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/K4JecMnBoYI/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/K4JecMnBoYI/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/K4JecMnBoYI/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "Anonama2",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/EWsTqLfSmLovOi1U-RtOKsTd9_Q\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "tJW77uMEHdI"
+    },
+    "snippet": {
+      "publishedAt": "2010-01-12T10:00:25.000Z",
+      "channelId": "UC-uC8tfchhyy2tFwZJ2yXjw",
+      "title": "Interview Alice In Chains - Jerry Cantrell and Sean Kinney about Layne Staley",
+      "description": "Watch the whole interview on http://www.faceculture.com . Video interview with hardrock band Alice In Chains. FaceCulture spoke to Jerry Cantrell and Sean Ki.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tJW77uMEHdI/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tJW77uMEHdI/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tJW77uMEHdI/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "FaceCulture",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/8WX8xtdlyGZt52TYxtdJVydXXwE\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "2D37POA11KY"
+    },
+    "snippet": {
+      "publishedAt": "2009-12-05T10:34:10.000Z",
+      "channelId": "UC2kTZB_yeYgdAg4wP2tEryA",
+      "title": "Alice In Chains - Your Decision",
+      "description": "Music video by Alice In Chains performing Your Decision.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2D37POA11KY/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2D37POA11KY/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2D37POA11KY/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "emimusic",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/T4DThbuWdvViESJAbOsrGoJobys\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "8lniuum_vjw"
+    },
+    "snippet": {
+      "publishedAt": "2011-05-11T22:16:05.000Z",
+      "channelId": "UCexsTYYnQ7rXiZWLgn3eUNQ",
+      "title": "Alice in chains unplugged \"Sludge factory\"",
+      "description": "Disclaimer: I don't own anything. Friends Don't Let Friends.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8lniuum_vjw/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8lniuum_vjw/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8lniuum_vjw/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "LSnoop2",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/tzW5ckRi9V4Tv-01EkHzqQxlwRw\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "SBcADQziQWY"
+    },
+    "snippet": {
+      "publishedAt": "2009-09-17T11:00:51.000Z",
+      "channelId": "UCoT5KO-FWsYrgu6VW73v3jQ",
+      "title": "Alice In Chains - Check My Brain",
+      "description": "Music video by Alice In Chains performing Check My Brain (Music Video).",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SBcADQziQWY/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SBcADQziQWY/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SBcADQziQWY/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "parlophone",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/9fhY-8oCkq-xP8b6AaGsU6ZHwSY\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Lfp3X_BC3dg"
+    },
+    "snippet": {
+      "publishedAt": "2011-12-09T01:41:16.000Z",
+      "channelId": "UCJF6Wh-oA7WdCbLhxDmpDkA",
+      "title": "Alice In Chains - I Stay Away [HQ w/Lyrics]",
+      "description": "Disclaimer: I do not own anything, NO COPYRIGHT INTENDED. This song belongs to the artist/record label/production company who made it. Lyrics: Yeah, hey, ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Lfp3X_BC3dg/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Lfp3X_BC3dg/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Lfp3X_BC3dg/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "dwrussell96",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/SFcsWFRi_f5OXS3V1WqpGi9peFE\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "_601kPxo1lQ"
+    },
+    "snippet": {
+      "publishedAt": "2010-11-23T20:56:12.000Z",
+      "channelId": "UC_ZGRz0vrKV1pgoQHpOXhFA",
+      "title": "Alice in Chains- Nutshell (lyrics)",
+      "description": "Artist: Alice in Chains EP: Jar of Flies Song: Nutshell.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_601kPxo1lQ/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_601kPxo1lQ/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_601kPxo1lQ/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "LSUking911",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/raLZgl9G2FYvKTZhPWW12huN4Mc\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "P2endLXNJtg"
+    },
+    "snippet": {
+      "publishedAt": "2011-04-10T12:16:05.000Z",
+      "channelId": "UCCaDdzUTypJ5dBgOrj_j96g",
+      "title": "Alice In Chains - 1991-08-30 Lansing Silver Dollar Saloon",
+      "description": "0:00:00 Real Thing 0:03:56 Put You Down 0:07:10 Sea Of Sorrow 0:12:20 Love, Hate, Love 0:18:52 We Die Young 0:21:23 Sunshine 0:25:55 Would? 0:29:28 ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/P2endLXNJtg/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/P2endLXNJtg/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/P2endLXNJtg/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "hutchenbuzz",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/QuvOsUZlXFuQ0tuC5YfhuWrd3pU\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Rs6RefV1td4"
+    },
+    "snippet": {
+      "publishedAt": "2007-03-20T10:57:50.000Z",
+      "channelId": "UCTXkpw3A-n_fYXJ-mUaBPLA",
+      "title": "Alice in Chains - Would? (Live Jools Holland 1993)",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Rs6RefV1td4/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Rs6RefV1td4/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Rs6RefV1td4/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "Helminen1",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/DCoPgpDKpYFgCJ0F8VSfDsuVRfY\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "JB_fNVOPzyM"
+    },
+    "snippet": {
+      "publishedAt": "2011-12-03T10:33:40.000Z",
+      "channelId": "UCg3_PXAREb95K1axJcz7dqg",
+      "title": "Alice In Chains - Would",
+      "description": "Would is the 13th song of the album ''Dirt'' (my favorite). Lyrics: Know me broken by my master, Teach thee a child, love hereafter, Into the flood again, Sa...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JB_fNVOPzyM/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JB_fNVOPzyM/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JB_fNVOPzyM/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "TheNielsotterman",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/w1ztxBjsbG_PCm7dj15PfUSEqIs\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "N_GPxe91hWE"
+    },
+    "snippet": {
+      "publishedAt": "2008-12-06T18:21:36.000Z",
+      "channelId": "UCwDJ0hhie2J9AMv1GvlrQ1Q",
+      "title": "Alice in Chains - Nutshell",
+      "description": "Alice in Chains - Nutshell.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N_GPxe91hWE/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N_GPxe91hWE/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N_GPxe91hWE/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "RosSigurs",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/E31W85fBUxjcOLkCPpdUUpUp_Eo\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "IG0fmKNZZHU"
+    },
+    "snippet": {
+      "publishedAt": "2012-10-19T01:42:51.000Z",
+      "channelId": "UCXdwIxcW6J20ymP7cqdCzAA",
+      "title": "THE 20 FULL SONGS OF ALICE IN CHAINS",
+      "description": "00:00:00 A Looking In View 00:07:09 Check My Brain 00:10:52 Dirt 00:16:08 Don't Follow 00:20:32 Down In A Hole 00:26:09 Frogs 00:34:25 Get Born Again ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IG0fmKNZZHU/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IG0fmKNZZHU/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IG0fmKNZZHU/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "xedymale3",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/dIG-PwievtiOU-wuB5hrwqPC4n8\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "74P4W_okEqA"
+    },
+    "snippet": {
+      "publishedAt": "2008-05-14T13:23:18.000Z",
+      "channelId": "UCzDfNYo7A3KFtKcbzAu_k1A",
+      "title": "Alice in Chains - God Am (Live 1996, Layne's Last Show)",
+      "description": "Alice in Chains playing the song \"God Am,\" the show taking place Kansas City, Missouri, July 03, 1996, and being Layne Staley's last live performance. Layne,...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/74P4W_okEqA/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/74P4W_okEqA/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/74P4W_okEqA/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "pappelipe",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/mlCrkyW_bqm6QoNFepgO90LAlXI\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Bryqu1Owoug"
+    },
+    "snippet": {
+      "publishedAt": "2012-03-12T06:22:36.000Z",
+      "channelId": "UCqm4GGdoKY21EH_EhfAUlWw",
+      "title": "Early Alice In Chains - Practice Videos and Interviews",
+      "description": "Queen of the rodeo...early 90's - home videos.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Bryqu1Owoug/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Bryqu1Owoug/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Bryqu1Owoug/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "ibdreamy",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/yC9kLb1PcvTMiflkdD22mKern5Q\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "GIHg4blAutE"
+    },
+    "snippet": {
+      "publishedAt": "2013-05-19T20:26:48.000Z",
+      "channelId": "UCynbN7TevIXTgHpmDUI5oTw",
+      "title": "WMMR MMRBQ 2013 Alice in Chains Interview",
+      "description": "Pierre Robert interviews members of Alice in Chains.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GIHg4blAutE/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GIHg4blAutE/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GIHg4blAutE/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "JanisDigitalMedia",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/vwfz23GQRto0KFFfK9t8RUtHr0k\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ETRSnoga8dA"
+    },
+    "snippet": {
+      "publishedAt": "2011-11-29T04:09:57.000Z",
+      "channelId": "UC6Gq685ut8xgOkAD_mEElNQ",
+      "title": "Alice In Chains Live Maquinaria 2011, Chile (Full Show)",
+      "description": "Presentación de Alice In Chains en el maquinaria festival 12/11/2011.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ETRSnoga8dA/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ETRSnoga8dA/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ETRSnoga8dA/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "bleak12",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/aintidj8WLfgSqY348O6tHNxbRo\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "g_ihXlWKC7g"
+    },
+    "snippet": {
+      "publishedAt": "2012-10-03T01:50:24.000Z",
+      "channelId": "UCNSzywvPnoP2H796K9vsU0Q",
+      "title": "Alice In Chains - Nutshell HQ",
+      "description": "Nutshell is a song composed by the Seattle grunge band Alice in Chains in 1994 and was part of the semi-acoustic EP \"Jar of Flies\". Nutshell is one of the be...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/g_ihXlWKC7g/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/g_ihXlWKC7g/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/g_ihXlWKC7g/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/iDk1r0xcPQGQTnE5mN0ibj30SmE\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PF_sGFjQYow"
+    },
+    "snippet": {
+      "publishedAt": "2013-07-25T07:00:17.000Z",
+      "channelId": "UChf0Knt-e9Pw8VywfuTZCjA",
+      "title": "Alice In Chains - Voices (Lyric Video)",
+      "description": "Music video by Alice In Chains performing Voices. (C) 2013 Capitol Records, LLC.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PF_sGFjQYow/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PF_sGFjQYow/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PF_sGFjQYow/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "AliceInChainsVEVO",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/BJ_IIU5pb84Nz82M8SAK5gnUsHk\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rbpS2LfoTKU"
+    },
+    "snippet": {
+      "publishedAt": "2009-11-23T23:14:57.000Z",
+      "channelId": "UCcnlLk8cTV3mdI3uHf5BwNw",
+      "title": "Alice In Chains - Nutshell - Unplugged - HD Video Lyrics in Closed Captions.mp4",
+      "description": "ste es uno de mis videos favoritos.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rbpS2LfoTKU/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rbpS2LfoTKU/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rbpS2LfoTKU/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "lourcof",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/7ICgWkrG_zslkfuQBEf71ccC7Ok\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ODTv9Lt5WYs"
+    },
+    "snippet": {
+      "publishedAt": "2009-10-25T08:38:55.000Z",
+      "channelId": "UChf0Knt-e9Pw8VywfuTZCjA",
+      "title": "Alice In Chains - I Stay Away",
+      "description": "Music video by Alice In Chains performing I Stay Away. (C) 1993 SONY BMG MUSIC ENTERTAINMENT.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ODTv9Lt5WYs/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ODTv9Lt5WYs/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ODTv9Lt5WYs/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "AliceInChainsVEVO",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/5bW9qZG8BSqX88pecp9PCR0Nv6Q\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Zxmt4PX6gto"
+    },
+    "snippet": {
+      "publishedAt": "2009-10-25T08:40:33.000Z",
+      "channelId": "UChf0Knt-e9Pw8VywfuTZCjA",
+      "title": "Alice In Chains - Angry Chair",
+      "description": "Music video by Alice In Chains performing Angry Chair. (C) 1992 SONY BMG MUSIC ENTERTAINMENT.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Zxmt4PX6gto/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Zxmt4PX6gto/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Zxmt4PX6gto/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "AliceInChainsVEVO",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/8iFzGy8G59k6n6QIhj5odqiVLe8\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xRA3pyb1WvI"
+    },
+    "snippet": {
+      "publishedAt": "2010-07-02T23:43:53.000Z",
+      "channelId": "UC53SFxLwlJmWJFXO0laUV9Q",
+      "title": "Rooster-Alice In Chains lyrics",
+      "description": "I DO NOT OWN THIS SONG.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xRA3pyb1WvI/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xRA3pyb1WvI/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xRA3pyb1WvI/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "CrapySk8Park",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/jGldr8ZaoiylxsB4Y15BivcOpvU\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "EyNfmkbOKSw"
+    },
+    "snippet": {
+      "publishedAt": "2011-11-23T12:19:25.000Z",
+      "channelId": "UCgrCu_YQg5VjKmMpJ0YJySg",
+      "title": "Alice In Chains Live At The Sonisphere 2010 Full Concert 1080p",
+      "description": "Available in 3D :)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EyNfmkbOKSw/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EyNfmkbOKSw/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EyNfmkbOKSw/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "mietalnerdHD",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/a6JIe-6m0YrBKMPcGAmJY0wkSxc\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "kcVoZr2JBkQ"
+    },
+    "snippet": {
+      "publishedAt": "2013-07-19T22:24:28.000Z",
+      "channelId": "UCEy_jM2w1ePHmpqT8Uo0bCg",
+      "title": "Alice In Chains - Nutshell (Legendado)",
+      "description": "Alice In Chains Nutshell traduzido para o Português.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kcVoZr2JBkQ/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kcVoZr2JBkQ/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kcVoZr2JBkQ/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "ffreeeakkvault",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/7cu559jbRzsQjte8nyvan-l5uGA\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "KKj6ZWUePJ0"
+    },
+    "snippet": {
+      "publishedAt": "2009-11-04T23:09:21.000Z",
+      "channelId": "UCEnFuJrIEaJm4ZuySwWehoQ",
+      "title": "Down In A Hole Alice in Chains MTV Unplugged",
+      "description": "Alice in Chains MTV Unplugged Down In A Hole video clip 1996 (great performance for Layne Staley and the band) rate and c please. lyrics: Bury Me Softly In T.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KKj6ZWUePJ0/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KKj6ZWUePJ0/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KKj6ZWUePJ0/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "girjjk56",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/WKsLq9upKXjNenHrMYf5G8ggO3U\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xKHUwfFb2lw"
+    },
+    "snippet": {
+      "publishedAt": "2009-10-25T08:41:18.000Z",
+      "channelId": "UChf0Knt-e9Pw8VywfuTZCjA",
+      "title": "Alice In Chains - Get Born Again",
+      "description": "Music video by Alice In Chains performing Get Born Again. (C) 1999 SONY BMG MUSIC ENTERTAINMENT.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xKHUwfFb2lw/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xKHUwfFb2lw/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xKHUwfFb2lw/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "AliceInChainsVEVO",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/Q2Df99AswWlK_CkJdQ5inXIfsjs\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "83gddxVpitc"
+    },
+    "snippet": {
+      "publishedAt": "2009-10-25T09:04:20.000Z",
+      "channelId": "UChf0Knt-e9Pw8VywfuTZCjA",
+      "title": "Alice In Chains - Grind",
+      "description": "Music video by Alice In Chains performing Grind. (C) 1995 SONY BMG MUSIC ENTERTAINMENT.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/83gddxVpitc/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/83gddxVpitc/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/83gddxVpitc/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "AliceInChainsVEVO",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/ZXeZ-8BnHy0Q9shZ_aM4lxHcRXE\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Eh54ZMPmbag"
+    },
+    "snippet": {
+      "publishedAt": "2012-10-09T23:42:34.000Z",
+      "channelId": "UChMA81HMCnkG9nrMkjU5wUA",
+      "title": "Alice In Chains - No Excuses - EASY - Acoustic Guitar Lesson",
+      "description": "If you have any song requests click the links below http://www.papastache.com/beginner.html Alice In Chains - No Excuses - EASY - Acoustic Guitar Lesson.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Eh54ZMPmbag/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Eh54ZMPmbag/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Eh54ZMPmbag/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "PapastachePop",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/l-EY2wPJURRUenU58kPnK0GGHcY\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "1tmbv9ePGQo"
+    },
+    "snippet": {
+      "publishedAt": "2012-12-18T21:41:08.000Z",
+      "channelId": "UCK9X9JACEsonjbqaewUtICA",
+      "title": "Alice In Chains -- Hollow (Fan Lyric Video)",
+      "description": "\"Hollow\" is now available on iTunes: http://smarturl.it/AICHollow Alice In Chains \"HOLLOW\" Instagram Fan Lyric Video. Brand new album, Spring 2013.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1tmbv9ePGQo/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1tmbv9ePGQo/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1tmbv9ePGQo/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "aliceinchainsvids",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/94yS64WMxUoSMM0I_tcAsqZxVp0\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "pURwKVOVF8I"
+    },
+    "snippet": {
+      "publishedAt": "2008-02-29T20:58:09.000Z",
+      "channelId": "UCnNLpFpNau7sjV9faY6XWTg",
+      "title": "Monicka Hove - Nutshell (Alice In Chains tribute)",
+      "description": "My tribute to Layne Staley and Alice in Chains. Rest in peace Layne. Feel free to check out more covers and original music from me on my channel. Facebook: h.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pURwKVOVF8I/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pURwKVOVF8I/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pURwKVOVF8I/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "monhove",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/6NEgvmGtMJpRBc6d_x6lkh3tb-U\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "C2bNO6dHJRE"
+    },
+    "snippet": {
+      "publishedAt": "2013-07-20T10:37:35.000Z",
+      "channelId": "UC_kvibl_hTw0olaaXI7rxow",
+      "title": "Alice In Chains - Bleed The Freak",
+      "description": "From Wikipedia: Alice In Chains is an American rock band formed in Seattle, Washington, in 1987 by guitarist and songwriter Jerry Cantrell and original lead ...",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/C2bNO6dHJRE/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/C2bNO6dHJRE/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/C2bNO6dHJRE/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "GmManze21",
+      "liveBroadcastContent": "none"
+    }
+  }, {
+    "kind": "youtube#searchResult",
+    "etag": "\"3enKTWw-I-yugKAPnlrhH5U04vQ/xl1JypIEkxg2PpvAucBGepd1orY\"",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rHXMmddscOM"
+    },
+    "snippet": {
+      "publishedAt": "2012-03-28T03:16:08.000Z",
+      "channelId": "UCDzLWpLM5hs2mjJFTmw-Pxw",
+      "title": "Alice in Chains - Rooster (with lyrics)",
+      "description": "Lyrics on screen. I do not own anything. Video is for entertainment only. Enjoy.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rHXMmddscOM/default.jpg"
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rHXMmddscOM/mqdefault.jpg"
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rHXMmddscOM/hqdefault.jpg"
+        }
+      },
+      "channelTitle": "bustinlooser",
+      "liveBroadcastContent": "none"
+    }
+  }]
+}

@@ -1,0 +1,153 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+
+	<title>Echoes Player</title>
+	<meta name="description" content="Alternative to youtube, Media Player which with a great ux for playing youtube videos">
+	<meta name="author" content="">
+
+	<meta name="MobileOptimized" content="320">
+    <meta http-equiv="cleartype" content="on">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+	<link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="bower_components/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<!-- TOP NAVIGATION BAR -->
+	<nav class="navbar navbar-default navbar-fixed-top">
+		<div class="container-fluid">
+			
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">Echoes</a>
+			</div>
+			
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<!-- SEARCH -->
+				<form class="navbar-form navbar-left" id="media-search">
+					<input placeholder="Find In Youtube..." id="media-search" type="search" class="form-control">
+					<button type="submit" class="btn btn-default">
+						<i class="glyphicon glyphicon-search"></i> Find
+					</button>
+				</form>
+
+				<div class="nav-collapse">
+					
+					<ul id="feed-filter" class="nav navbar-nav">
+				        <li>
+				        	<a href="#"><i class="glyphicon glyphicon-film"></i> Videos</a>
+				        </li>
+				        
+				        <li>
+				        	<a href="#"><i class="glyphicon glyphicon-th-list"></i> Playlists</a>
+				        </li>
+					</ul>
+					
+					<ul class="navbar-nav nav" id="search-presets">
+						<li class="dropdown">
+							<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+								<i class="glyphicon glyphicon-tag"></i> Preset
+								<span class="caret"></span>
+							</a>
+
+
+							<ul class="dropdown-menu">
+								
+								<li class="active">
+									<a href="#" data-preset="1">
+										All
+									</a>
+								</li><li class="">
+									<a href="#full album" data-preset="2">
+										Albums
+									</a>
+								</li><li class="">
+									<a href="#live" data-preset="3">
+										Live
+									</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+					
+					<ul class="navbar-nav nav" id="duration-picker">
+						<li class="dropdown">	
+							<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+								<i class="glyphicon glyphicon-time"></i> Duration
+								<span class="caret"></span>
+							</a>
+							<ul class="dropdown-menu">
+								<li class="active">
+									<a href="#any" data-duration="0">Any</a>
+								</li>
+								<li class="">
+									<a href="#short" data-duration="1">Short (less then 4 minutes)</a>
+								</li>
+								<li class="">
+									<a href="#medium" data-duration="2">Medium (4-20 minutes)</a>
+								</li>
+								<li class="">
+									<a href="#long" data-duration="3">Long (longer than 20 minutes)</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+
+				<!-- User Profile -->
+				<ul id="user-profile" class="nav navbar-nav navbar-right">
+
+					<li class="dropdown">	
+						<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+							<i class="glyphicon glyphicon-user"></i>
+							<span class="username">Username</span>
+							<span class="caret"></span>
+						</a>
+						<ul class="dropdown-menu">
+							<li>
+								<a href="http://youtube.com/html5" target="_blank">
+								<i class="glyphicon glyphicon-film"></i> Join Youtube's HTML5 Trial</a>
+							</li>
+							<li>
+								<a href="http://github.com/orizens/echoes" target="_blank">
+								<i class="glyphicon glyphicon-github"></i> About Echoes</a>
+							</li>
+							<li>
+								<a href="/updates/latest.json" target="_blank" class="action">
+								<i class="glyphicon glyphicon-cloud-upload"></i> Check For Updates</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<!-- MAIN CONTENT -->
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-12">
+				<div id="search-results"></div>
+			</div>
+		</div>
+
+	</div>
+
+	<!-- YOUTUBE PLAYER -->
+	<div id="youtube-player" class="navbar navbar-default navbar-fixed-bottom"></div>
+
+	<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+	
+</body>
+</html>

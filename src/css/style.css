@@ -1,0 +1,10 @@
+body {
+	background-image: url(../img/bg.png);
+}
+.ux-maker {
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+}
