@@ -10,5 +10,5 @@ React.renderComponent(
 
 React.renderComponent(
    	<TopNavbar></TopNavbar>,
-    document.body.querySelector("#search-presets")
+    document.body.querySelector("#nav-collapse")
 );

@@ -17,10 +17,13 @@ var NavDropdown = React.createClass({
 				</li>
 			)
 		});
+
+		var icon = "glyphicon glyphicon-" + this.props.icon;
+
 		return (
 			<li className="dropdown">
 				<a className="dropdown-toggle" data-toggle="dropdown" href="#">
-					<i className="glyphicon glyphicon-{this.props.icon}"></i> {this.props.title}
+					<i className={icon}></i> {this.props.title}
 					<span className="caret"></span>
 				</a>
 
